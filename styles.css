@@ -31,6 +31,7 @@ header {
     flex-grow: 1;
     justify-content: center;
     gap: 25px;
+    padding: 10px;
 }
 
 .background-color-display {
@@ -55,4 +56,13 @@ header {
     background-color: transparent;
     padding: 5px 10px 5px 10px;
     letter-spacing: 2px;
+}
+
+.title {
+    font-weight: bold;
+    color: green;
+}
+
+#simple {
+    color: green;
 }
