@@ -24,7 +24,9 @@ This project uses the following languages:
 
 # How to Run
 1. Clone this repository:
-```git clone https://github.com/NiTzuA/fcc-color-flipper.git```
+```bash
+git clone https://github.com/NiTzuA/fcc-color-flipper.git
+```
 2. Open index.html on any browser (tested on Chrome and Firefox)
 3. Click the buttons to flip background colors!
 
